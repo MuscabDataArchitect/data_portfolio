@@ -22,9 +22,8 @@ I'm a passionate **Business Intelligence Analyst** with expertise in leveraging 
 
 ### Tech Stack 
 
-#### **Database & Analytics**
+#### **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### **Cloud**
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
